@@ -29,7 +29,7 @@ Git • GitHub • VS Code
 
 🔹 **ScamShield** — AI-powered platform focused on detecting and preventing scams.
 
-🔹 **AXON** — An AI-powered system for generating and executing development workflows.
+🔹 **Eco-Ideathon** — Eco-Ideathon – Rooftop Solar Detection.
 
 
 ### 🏆 Hackathons & Activities
