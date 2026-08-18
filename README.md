@@ -31,7 +31,6 @@ Git • GitHub • VS Code
 
 🔹 **AXON** — An AI-powered system for generating and executing development workflows.
 
-🔹 **Smart Traffic Management System** — Computer-vision based traffic monitoring and optimization.
 
 ### 🏆 Hackathons & Activities
 
